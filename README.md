@@ -1,2 +1,1 @@
 Birinchi commit
-Ikkinchi commit
